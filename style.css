@@ -56,3 +56,8 @@ img {
     font-size: small;
     border-bottom-style:solid;
 }
+
+.recipe-subject {
+    font-weight: bolder;
+    color: orange;
+}
