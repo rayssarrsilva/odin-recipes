@@ -61,3 +61,21 @@ img {
     font-weight: bolder;
     color: orange;
 }
+
+#lasagna {
+    border-bottom-style:solid;
+    width: 320px;
+    border-color: blue;
+}
+
+#brusqueta {
+    border-bottom-style:solid;
+    width: 320px;
+    border-color: rgb(238, 3, 42);
+}
+
+#harumaki {
+    border-bottom-style:solid;
+    width: 320px;
+    border-color: greenyellow;
+}
